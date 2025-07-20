@@ -31,3 +31,7 @@ This is a great beginner-level project to learn file handling, dictionaries, sor
 
 ## 📁 Project Structure
 
+BookBot/
+├── main.py # Main script to run the analysis
+├── stats.py # Helper functions for word & char stats
+└── sample.txt # (Optional) Sample file to test with
